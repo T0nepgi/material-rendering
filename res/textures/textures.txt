@@ -1,0 +1,6 @@
+0 "container.png"
+1 "container_specular.png" 
+2 "cow.jpg" 
+3 "zebra.jpg"
+4 "metal.jpg" 
+5 "incrusted.jpeg"
